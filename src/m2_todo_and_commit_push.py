@@ -1,5 +1,6 @@
 print('Hello, World')
-
+print('splatooon2')
+print('product',)
 ###############################################################################
 #
 #   This line is a COMMENT -- a note to human readers of this file.
